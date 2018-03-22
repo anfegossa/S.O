@@ -1,5 +1,5 @@
 #!/bin/bash
-#Creado por Johan Sebastian Hernandez
+#Creado por Johan Sebastian Hernandez, Andres Felipe Gomez y Jhon Carlos Valencia
 #Fecha 21-03-2018
 #
 
